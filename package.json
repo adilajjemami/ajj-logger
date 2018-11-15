@@ -1,0 +1,19 @@
+{
+  "name": "ajj-logger",
+  "version": "1.0.0",
+  "description": "Simple stdout/stderr logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adil AJJEMAMI <adilajjemami@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "stack-trace": "0.0.10"
+  },
+  "keywords": [
+    "nodejs",
+    "log",
+    "logger"
+  ]
+}
